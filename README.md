@@ -1,3 +1,11 @@
+# Fix
+
+Fix _JupyterLab Data Explorer_
+
+[![Binder][badge-binder]](https://mybinder.org/v2/gh/wenoptics/jupyterlab-data-explorer/master?urlpath=lab%2Ftree%2Fnotebooks%2Fdemo.ipynb)
+
+---
+
 # JupyterLab Data Explorer
 
 ![Stability Experimental][badge-stability] [![npm][badge-npm-version-dataregistry-extension]][npm-package-dataregistry-extension] [![npm][badge-npm-version-dataregistry]][npm-package-dataregistry]

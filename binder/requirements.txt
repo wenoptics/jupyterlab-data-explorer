@@ -1,3 +1,0 @@
-pandas
-jupyterlab~=3.6.5
-vega_datasets
